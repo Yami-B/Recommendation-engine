@@ -7,7 +7,7 @@ For this purpose, the website has delivered 3 csv files enclosing data about use
 - second file focusing on users: Country of residence, registration time, total time spent on the website, rank (expert, advanced, intermediate, beginner), number of points, etc..
 - third file focused on the problems: level (A to N, N being the most dfficult), points earned if solved and tags (field on which the problem deals with. Ex: greedy, brute force, implementation, graphes,..)
 
-Finally, the website gave a fourth csv file containing new users, problems associated and from that, we had t predict the number of attempts each of these users we'll make.
+Finally, the website gave a fourth csv file containing new users, problems associated and from that, we had to predict the number of attempts each of these users we'll make.
 
 # MODUS OPERANDI
 
